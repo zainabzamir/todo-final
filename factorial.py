@@ -6,4 +6,3 @@ def factorial(x):
 
 print(factorial(5))
 print("Hello")
-      
